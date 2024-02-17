@@ -8,7 +8,7 @@ Contributions
 We welcome contributions to this repository! If you have suggestions for improvement, additional resources, or code samples you'd like to share, feel free to fork this repository, make your changes, and submit a pull request.
 
 Support
-If you encounter any issues, have questions, or need assistance, please don't hesitate to reach out to the course instructors or open an issue in this repository.
+If you encounter any issues, have questions, or need assistance, please don't hesitate to reach out or open an issue in this repository.
 
 Let's dive into the world of high-performance coding together!
 
