@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stack>
+#include <stack> 
 #include <vector>
 
 using namespace std;
@@ -37,7 +37,7 @@ int getInfix(string s) {
 
 int main() {
     int size;
-    cin >>size;
+    cin >> size;
     int size1 =size;
     vector<string> v;
     while (size--) {
