@@ -10,6 +10,6 @@ We welcome contributions to this repository! If you have suggestions for improve
 Support
 If you encounter any issues, have questions, or need assistance, please don't hesitate to reach out or open an issue in this repository.
 
-Let's dive into the world of high-performance coding together!
+Let's dive into the world of high-performance coding together !
 
-Happy coding!
+Happy coding !
