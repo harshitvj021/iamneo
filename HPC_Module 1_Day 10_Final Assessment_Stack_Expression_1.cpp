@@ -6,7 +6,7 @@ using namespace std;
 
 int getInfix(string s) {
     stack<int>st;
-    for(int i=0;i<s.size();i++) {
+    for(int i=0;i<s.size();i++)  {
         if(isdigit(s[i])) {
             st.push(s[i]-'0');
         }
