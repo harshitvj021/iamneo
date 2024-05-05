@@ -9,7 +9,7 @@ struct TreeNode {
     TreeNode(int x) : val(x) , left(NULL), right(NULL) {}
 };
 
-TreeNode* constructBinaryTree(int arr[], int n)   {
+TreeNode* constructBinaryTree(int arr[], int n) {
     if(n==0) return NULL;
     
     TreeNode* root = new TreeNode(arr[0]);
