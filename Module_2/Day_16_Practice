@@ -9,7 +9,7 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
-TreeNode* insert(TreeNode* root,int val)  {
+TreeNode* insert(TreeNode* root,int val) {
     if(root == NULL) {
         return new TreeNode(val);
     }
